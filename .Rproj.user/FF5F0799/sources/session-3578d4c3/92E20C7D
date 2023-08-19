@@ -1,9 +1,9 @@
 {
     "id": "92E20C7D",
-    "path": "C:/Users/ADMIN/Documents/R_learning/project_1/2_data_types.R",
+    "path": "~/R_learning/project_1/2_data_types.R",
     "project_path": "2_data_types.R",
     "type": "r_source",
-    "hash": "2307698770",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1692464215466.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,31",
+        "cursorPosition": "13,51",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1692466911,
+    "lastKnownWriteTime": 1692472793,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1692466911240,
+    "last_content_update": 1692472793080,
     "read_only": false,
     "read_only_alternatives": []
 }
