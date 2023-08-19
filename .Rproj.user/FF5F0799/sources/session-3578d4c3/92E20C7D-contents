@@ -11,4 +11,5 @@ str(mydata)
 mydata$total_sqft <- as.integer(mydata$total_sqft)
 glimpse(mydata)
 
+# let me make few changes (BTW, I am practicing git)
 
